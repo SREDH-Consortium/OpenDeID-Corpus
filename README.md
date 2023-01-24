@@ -1,4 +1,4 @@
-This is 2022 updated corpus of https://github.com/TCRNBioinformatics/OpenDeID-Corpus
+ updated corpus of https://github.com/TCRNBioinformatics/OpenDeID-Corpus
 
 
 # OpenDeID 
@@ -7,7 +7,7 @@ This is 2022 updated corpus of https://github.com/TCRNBioinformatics/OpenDeID-Co
 
 
 # OpenDeID Corpus
-
+The 2022 updated corpus is at https://github.com/TCRNBioinformatics/OpenDeID-Corpus2
 
 ## About HSA Biobank 
 
