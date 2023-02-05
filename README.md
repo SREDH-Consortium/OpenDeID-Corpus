@@ -2,12 +2,8 @@
 
 
 # OpenDeID 
-- If you are looking for OpenDeID please refer to https://github.com/TCRNBioinformatics/OpenDeID
-- The OpenDeID corpus is used to design and develop OpenDeID pipeline. 
 
-
-# OpenDeID Corpus
-The 2022 updated corpus is at https://github.com/TCRNBioinformatics/OpenDeID-Corpus2
+- The OpenDeID corpus is used to design and develop OpenDeID.
 
 ## About HSA Biobank 
 
