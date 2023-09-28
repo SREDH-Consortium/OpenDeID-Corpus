@@ -20,9 +20,9 @@ contact: z3339253 (at) unsw (dot) edu  (dot) au
 
 ####Step1: Fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=pM_2PxXn20i44Qhnufn7o9BeeOC_8jxNuJQ2lgxVdtdUMFIzN1lLQUhYUkxRMDdPQklJVE1UVjNWVS4u) to obtain the corpus. 	
 
-####Step2: Once the request is approved, please sign and return [data usage and distribution agreements](https://github.com/TCRNBioinformatics/OpenDeID-Corpus/blob/master/OpenDeID%20Corpus%20DUA%20v2.0_2021.pdf) .
+####Step2: Once the request is approved, please sign and return data usage and SREDH consortium (www.sredhconsortium.org) membership forms .
 
-####Step 3: Download the corpus from secure server - [www.sredhconsortium.org] ( www.sredhconsortium.org).
+####Step 3: Download the corpus from the SREDH Platform.
 
 ####Step4: Submit project completion or progress report in 6 months. 
 
