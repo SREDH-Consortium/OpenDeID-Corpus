@@ -5,10 +5,7 @@
 
 - The OpenDeID corpus is used to design and develop OpenDeID.
 
-## About HSA Biobank 
 
-The HSA biobank is a collaborative initiative based at the Lowy Cancer Research Centre at the University of New South Wales, Sydney, Australia. It aims at supporting researchers and clinicians for the advancement in the field of translational cancer research across Australia and internationally. The HSA Biobank houses all types of tumour tissues obtained from patients who have undergone surgery at one of the HSA hospitals and have provided their consent to the HSA biobank. Please refer to for more information. 
-http://www.tcrn.unsw.edu.au/hsa
 
 ## About OpenDeID Corpus
 
@@ -44,8 +41,10 @@ Project Title: Automatic de-identification of unstructured pathology reports usi
 
 Approval Number: UNSW HC17749 
 
-Approval Period: 21-Sep-2017 - 20-Sep-2022
+## About HSA Biobank 
 
+The HSA biobank is a collaborative initiative based at the Lowy Cancer Research Centre at the University of New South Wales, Sydney, Australia. It aims at supporting researchers and clinicians for the advancement in the field of translational cancer research across Australia and internationally. The HSA Biobank houses all types of tumour tissues obtained from patients who have undergone surgery at one of the HSA hospitals and have provided their consent to the HSA biobank. Please refer to for more information. 
+http://www.tcrn.unsw.edu.au/hsa
 
 ## FAQs
 
