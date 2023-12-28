@@ -9,11 +9,6 @@ The OpenDeID  corpus is the first Australian based gold-standard corpus for pati
 
 The OpenDeID corpus is used to design and develop OpenDeID pipeline. https://github.com/TCRNBioinformatics/OpenDeID-Pipeline
 
-## About HSA Biobank 
-
-The HSA biobank is a collaborative initiative based at the Lowy Cancer Research Centre at the University of New South Wales, Sydney, Australia. It aims at supporting researchers and clinicians for the advancement in the field of translational cancer research across Australia and internationally. The HSA Biobank houses all types of tumour tissues obtained from patients who have undergone surgery at one of the HSA hospitals and have provided their consent to the HSA biobank. Please refer to for more information. 
-http://www.tcrn.unsw.edu.au/hsa
-
 
 ## OpenDeID corpus access instructions and criteria
 
@@ -40,7 +35,9 @@ https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset/faqs
 ## Related links
 
 https://github.com/TCRNBioinformatics/OpenDeID-Corpus
+
 https://github.com/TCRNBioinformatics/OpenDeID-Pipeline
+
 https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
 
 
