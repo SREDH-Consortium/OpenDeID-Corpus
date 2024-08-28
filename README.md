@@ -1,6 +1,6 @@
 
 
-## About OpenDeID Corpus
+## About OpenDeID v1 Corpus
 
 The OpenDeID  corpus is the first Australian based gold-standard corpus for patient de-identification. This corpus can used for development of automated patient de-identification systems using rule based or machine learning approaches. The corpus comprises of 2,100 pathology reports consisting of approximately 717 tokens per report from 1,833 cancer patients with 38,414 PHI entities annotated. The overall inter-annotator agreement and deviation scores for all three settings were 0.9464 and 0.9503 respectively. The corpus is manually annotated with surrogate information and measures have been taken to make sure there is no indetifiable informaiton. For more information please refer to https://www.sredhconsortium.org/sredh-datasets/opendeid-corpus-dataset
 
